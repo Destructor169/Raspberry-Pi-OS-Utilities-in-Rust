@@ -1,6 +1,6 @@
 # ColeopteraOS
 
-**OS for RaspberryPi based on Rust using CSCI 320 course**
+**OS for RaspberryPi based on Rust**
 
 ## Already available:
 
@@ -10,14 +10,6 @@
      `rustup target add thumbv7em-none-eabihf`
   2. Build for target
      `cargo build --target thumbv7em-none-eabihf`
-
-Learning/Overview:
-
-| Ressource                                     | URL                                          |
-| --------------------------------------------- | -------------------------------------------- |
-| CSCI 320                                      | http://ozark.hendrix.edu/~ferrer/courses/os/ |
-| CSCI 320 (newer Version)                      | https://hendrix-cs.github.io/csci320/        |
-| Writing an OS in Rust (mentioned by CSCI 320) | https://os.phil-opp.com/                     |
 
 Example Code:
 
