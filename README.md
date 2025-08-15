@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ColeopteraOS
 
 **OS for RaspberryPi based on Rust using CSCI 320 course**
@@ -33,3 +34,6 @@ Useful Tools:
 | Ressource      | URL                                |
 | -------------- | ---------------------------------- |
 | RasPi Emulator | https://github.com/jhhoward/Faux86 |
+=======
+# Raspberry-Pi-OS-Utilities-in-Rust
+>>>>>>> origin/main
